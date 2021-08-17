@@ -1,0 +1,10 @@
+{
+  "name": "getting-started-json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mitani24 <h.mitani@ashita-team.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
